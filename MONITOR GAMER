@@ -1,0 +1,424 @@
+# Guia de Monitores para PS5 e Xbox Series X — 2026
+
+Este documento organiza os principais critérios técnicos para avaliar monitores destinados ao uso com **PlayStation 5** e **Xbox Series X**.
+
+A proposta é separar especificações relevantes para consoles de características que podem ter maior importância em computadores, evitando comparar monitores apenas pela quantidade de Hz, resolução ou tempo de resposta anunciados.
+
+---
+
+## Objetivo
+
+Avaliar um monitor para console considerando:
+
+* resolução;
+* taxa de atualização;
+* 120 Hz;
+* HDMI;
+* HDMI 2.1;
+* VRR;
+* HDR;
+* tecnologia do painel;
+* tempo de resposta;
+* latência;
+* tamanho da tela;
+* conectividade;
+* compatibilidade com o dispositivo utilizado.
+
+---
+
+## 1. Resolução
+
+A resolução determina a quantidade de pixels exibidos na tela.
+
+Para monitores destinados aos consoles atuais, 4K é uma das opções mais relevantes para quem prioriza definição de imagem.
+
+### 4K
+
+Resolução:
+
+```text
+3840 × 2160
+```
+
+Pode ser interessante para:
+
+* jogos compatíveis com 4K;
+* telas maiores;
+* usuários que priorizam qualidade visual;
+* utilização combinada com outros dispositivos.
+
+A resolução não deve ser analisada isoladamente.
+
+---
+
+## 2. Taxa de atualização
+
+A taxa de atualização indica quantas vezes por segundo a tela pode atualizar a imagem.
+
+Exemplos:
+
+```text
+60 Hz
+120 Hz
+144 Hz
+165 Hz
+240 Hz
+```
+
+Para consoles, 120 Hz pode ser particularmente relevante em jogos compatíveis.
+
+Uma taxa de atualização superior não significa automaticamente uma vantagem proporcional.
+
+Um monitor de 240 Hz pode ser interessante para quem também utiliza um PC, mas parte dessa capacidade pode não ser aproveitada quando o equipamento é utilizado exclusivamente com console.
+
+---
+
+## 3. HDMI
+
+A conexão HDMI deve ser analisada considerando os recursos efetivamente disponíveis.
+
+Verificar:
+
+* versão da conexão;
+* resolução máxima;
+* taxa de atualização máxima;
+* VRR;
+* HDR;
+* quantidade de entradas;
+* limitações específicas de cada porta.
+
+A descrição comercial do produto nem sempre apresenta todas essas informações.
+
+A documentação técnica do fabricante deve ser consultada quando houver dúvida.
+
+---
+
+## 4. HDMI 2.1
+
+HDMI 2.1 pode ser relevante para determinados cenários envolvendo:
+
+* 4K;
+* taxas de atualização elevadas;
+* VRR;
+* recursos de vídeo compatíveis.
+
+A presença da especificação não deve ser interpretada isoladamente.
+
+É necessário verificar quais recursos são efetivamente suportados pela porta HDMI 2.1 do monitor.
+
+---
+
+## 5. VRR
+
+VRR significa:
+
+```text
+Variable Refresh Rate
+```
+
+A tecnologia permite que a taxa de atualização da tela varie de acordo com a taxa de quadros compatível.
+
+Possíveis benefícios:
+
+* sincronização mais adequada;
+* redução de determinados problemas visuais;
+* experiência mais consistente em situações de variação de frames.
+
+A compatibilidade deve ser verificada entre:
+
+```text
+Console
+   ↓
+Conexão
+   ↓
+Monitor
+   ↓
+Jogo
+```
+
+---
+
+## 6. HDR
+
+HDR significa:
+
+```text
+High Dynamic Range
+```
+
+O recurso pode ampliar a faixa dinâmica da imagem, mas a simples presença da sigla não determina a qualidade final.
+
+Também devem ser considerados:
+
+* brilho;
+* contraste;
+* tecnologia do painel;
+* cobertura de cores;
+* processamento de imagem.
+
+Dois monitores classificados como HDR podem apresentar resultados diferentes.
+
+---
+
+## 7. Tecnologia do painel
+
+### OLED
+
+Características frequentemente associadas:
+
+* contraste elevado;
+* pretos profundos;
+* excelente resposta;
+* ampla capacidade de reprodução de imagem.
+
+### IPS
+
+Características frequentemente associadas:
+
+* boa reprodução de cores;
+* bons ângulos de visão;
+* grande variedade de modelos;
+* diferentes níveis de desempenho.
+
+O tipo de painel não deve ser utilizado isoladamente para determinar a escolha.
+
+---
+
+## 8. Tempo de resposta
+
+O tempo de resposta está relacionado às transições dos pixels.
+
+Valores divulgados podem incluir:
+
+```text
+1 ms
+0,5 ms
+```
+
+Entretanto, números publicados por fabricantes podem utilizar diferentes métodos de medição.
+
+Por isso, comparações independentes são úteis quando disponíveis.
+
+---
+
+## 9. Latência de entrada
+
+Latência de entrada e tempo de resposta são conceitos diferentes.
+
+### Tempo de resposta
+
+Relaciona-se às transições dos pixels.
+
+### Input lag
+
+Relaciona-se ao intervalo entre o comando e sua representação na tela.
+
+Para jogos competitivos, ambos podem ser relevantes.
+
+---
+
+## 10. Tamanho da tela
+
+O tamanho deve ser analisado juntamente com a distância de visualização.
+
+Considerar:
+
+* espaço disponível;
+* distância entre jogador e tela;
+* resolução;
+* posição de utilização;
+* tipo de jogo.
+
+Uma tela maior não é automaticamente melhor para todos os ambientes.
+
+---
+
+# Checklist técnico
+
+## Imagem
+
+* [ ] Resolução adequada
+* [ ] Tamanho adequado
+* [ ] Contraste
+* [ ] HDR
+* [ ] Tecnologia do painel
+* [ ] Reprodução de cores
+
+## Desempenho
+
+* [ ] 120 Hz
+* [ ] Taxa de atualização adequada
+* [ ] Tempo de resposta
+* [ ] Input lag
+* [ ] VRR
+
+## Conectividade
+
+* [ ] HDMI adequado
+* [ ] HDMI 2.1 quando necessário
+* [ ] Quantidade de entradas
+* [ ] Recursos disponíveis por entrada
+* [ ] Compatibilidade com PS5
+* [ ] Compatibilidade com Xbox Series X
+
+## Uso combinado com PC
+
+* [ ] DisplayPort
+* [ ] Taxa de atualização superior
+* [ ] VRR
+* [ ] Resolução
+* [ ] Ergonomia
+
+---
+
+# Perfis de utilização
+
+## Jogos competitivos
+
+Priorizar:
+
+```text
+Baixa latência
++
+Resposta rápida
++
+120 Hz ou superior
++
+VRR
+```
+
+## Jogos focados em qualidade visual
+
+Priorizar:
+
+```text
+4K
++
+Contraste
++
+HDR
++
+Qualidade do painel
+```
+
+## Console + PC
+
+Considerar:
+
+```text
+4K
++
+120 Hz ou mais
++
+HDMI
++
+DisplayPort
++
+VRR
++
+Ergonomia
+```
+
+## Dois consoles
+
+Dar atenção especial a:
+
+```text
+Quantidade de entradas
++
+Compatibilidade
++
+HDMI
++
+VRR
++
+HDR
+```
+
+---
+
+# Como comparar dois monitores
+
+Uma comparação básica pode utilizar esta estrutura:
+
+| Critério            | Monitor A | Monitor B |
+| ------------------- | --------- | --------- |
+| Resolução           | —         | —         |
+| Tamanho             | —         | —         |
+| Taxa de atualização | —         | —         |
+| 120 Hz              | —         | —         |
+| HDMI                | —         | —         |
+| HDMI 2.1            | —         | —         |
+| VRR                 | —         | —         |
+| HDR                 | —         | —         |
+| Painel              | —         | —         |
+| Tempo de resposta   | —         | —         |
+| Input lag           | —         | —         |
+| PS5                 | —         | —         |
+| Xbox Series X       | —         | —         |
+| PC                  | —         | —         |
+
+A tabela deve ser preenchida utilizando informações técnicas verificáveis do fabricante e, quando possível, testes independentes.
+
+---
+
+# Erros comuns
+
+## Escolher somente pelo número de Hz
+
+240 Hz não significa automaticamente que será mais adequado para um console do que 120 Hz.
+
+## Escolher somente pela resolução
+
+4K não compensa necessariamente limitações importantes em outras características.
+
+## Considerar apenas a presença de HDMI 2.1
+
+É necessário verificar quais recursos são efetivamente suportados.
+
+## Considerar apenas o "1 ms"
+
+O método utilizado para medir o tempo de resposta pode variar.
+
+## Considerar apenas a sigla HDR
+
+Brilho, contraste e painel também influenciam o resultado.
+
+## Ignorar o ambiente
+
+Tamanho da tela e distância de visualização precisam ser considerados em conjunto.
+
+---
+
+# Conclusão
+
+A avaliação de um monitor para PS5 ou Xbox Series X deve considerar o conjunto de características e não apenas uma especificação isolada.
+
+Os principais elementos são:
+
+```text
+Resolução
+Taxa de atualização
+HDMI
+VRR
+HDR
+Painel
+Tempo de resposta
+Input lag
+Tamanho
+Compatibilidade
+```
+
+O monitor adequado depende do uso pretendido.
+
+Uma configuração voltada para jogos competitivos pode priorizar características diferentes de uma configuração destinada a jogos cinematográficos. Da mesma forma, quem utiliza o monitor com PC possui necessidades adicionais.
+
+A comparação deve, portanto, partir dos recursos efetivamente utilizados pelo usuário e pelo dispositivo.
+
+---
+
+# Referência
+
+Análise comparativa completa:
+
+https://www.dantastech1977.com.br/2026/09/melhores-monitores-gamer-ps5-xbox-2026.html
