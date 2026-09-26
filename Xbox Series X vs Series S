@@ -1,0 +1,80 @@
+Este documento organiza os principais critérios técnicos para comparar Xbox Series X e Series S sem transformar especificações isoladas em conclusões automáticas.
+
+O Xbox Series X e o Xbox Series S pertencem à mesma geração, mas foram projetados para perfis diferentes.
+O Series X tem GPU de 12 TFLOPS/52 CUs, 16 GB de memória GDDR6 e versões com 1 TB ou 2 TB, incluindo modelos com leitor de discos.
+O Series S tem GPU de 4 TFLOPS/20 CUs, 10 GB de memória GDDR6 e versões de 512 GB ou 1 TB, todas digitais.
+Os dois usam CPU customizada de 8 núcleos baseada em Zen 2, SSD e arquitetura Velocity, além de suportarem até 120 FPS em jogos e telas compatíveis.
+O Series X é direcionado a quem pretende aproveitar melhor telas 4K e jogos AAA com maior margem gráfica. O Series S é mais compacto e atende melhor quem prioriza menor investimento, biblioteca digital e uso em Full HD/1440p.
+A diferença de 12 contra 4 TFLOPS não significa que o Series X entregue automaticamente três vezes mais FPS: resolução, engine, otimização e modo gráfico influenciam o resultado.
+No Xbox Series S não há leitor de discos. No Series X, a presença do leitor depende da versão.
+O custo total também envolve armazenamento, expansão, jogos comprados fora da assinatura, acessórios e serviços.
+
+Especificações principais
+
+Item
+
+Series X
+
+Series S
+
+CPU
+
+8 núcleos Zen 2 custom
+
+8 núcleos Zen 2 custom
+
+GPU
+
+12 TFLOPS / 52 CUs
+
+4 TFLOPS / 20 CUs
+
+Memória
+
+16 GB GDDR6
+
+10 GB GDDR6
+
+Armazenamento
+
+1 TB / 2 TB, conforme versão
+
+512 GB / 1 TB
+
+Mídia física
+
+conforme versão
+
+não
+
+Meta de uso
+
+4K e maior margem gráfica
+
+Full HD/1440p e formato compacto
+
+Como interpretar
+
+A diferença de GPU e memória é a principal separação técnica. Entretanto, não existe relação direta entre TFLOPS e FPS. Cada jogo define resolução, qualidade, modo de desempenho e otimização.
+
+Checklist
+
+Identificar resolução da tela
+
+Verificar biblioteca de jogos
+
+Decidir físico ou digital
+
+Conferir capacidade de armazenamento
+
+Considerar expansão
+
+Somar assinatura e jogos fora do catálogo
+
+Conferir a configuração exata do console
+
+Referência
+
+Este README pode acompanhar um projeto ou estudo sobre hardware de consoles. A análise editorial completa está no Dantas Tech.
+
+Fonte de referência: https://www.dantastech1977.com.br/2026/09/xbox-series-x-vs-series-s-2026.html
