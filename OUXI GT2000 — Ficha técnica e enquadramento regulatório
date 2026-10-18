@@ -1,0 +1,63 @@
+Documento de referência sobre as especificações divulgadas da OUXI GT2000 e os critérios regulatórios brasileiros aplicáveis a bicicletas elétricas.
+
+> **Importante:** os valores abaixo são especificações anunciadas, não resultados de testes independentes. Confirme os dados da unidade, do fabricante e da documentação comercial antes de utilizá-los para uma decisão de compra ou enquadramento legal.
+
+## 1. Ficha técnica divulgada
+
+| Componente | Especificação anunciada | Observação |
+|---|---|---|
+| Modelo | OUXI GT2000 | Confirmar a versão exata |
+| Motor | 1000 W | Potência anunciada; confirmar se nominal |
+| Bateria | 48 V, 30 Ah | Capacidade anunciada |
+| Energia nominal calculada | 1.440 Wh (1,44 kWh) | 48 V × 30 Ah |
+| Rodas | Aro 24 | Confirmar medidas e pneus da unidade |
+
+## 2. Cálculo de energia nominal
+
+Fórmula:
+
+`Energia (Wh) = tensão (V) × capacidade (Ah)`
+
+Cálculo informado:
+
+`48 V × 30 Ah = 1.440 Wh`
+
+Esse resultado representa a energia nominal calculada a partir dos valores anunciados. Não permite determinar a autonomia real sem dados adicionais sobre consumo, bateria, terreno, carga, velocidade e condições de uso.
+
+## 3. Critérios regulatórios — Brasil
+
+Referência principal: Resolução CONTRAN nº 996, de 15 de junho de 2023.
+
+Para o enquadramento como bicicleta elétrica, a resolução prevê, entre outros critérios:
+
+- Veículo de propulsão humana com duas rodas.
+- Motor auxiliar com potência nominal máxima de até 1.000 W.
+- Funcionamento do motor somente quando o condutor pedala (pedal assistido).
+- Ausência de acelerador ou dispositivo de variação manual de potência.
+- Velocidade máxima de propulsão do motor auxiliar de 32 km/h.
+
+**A potência de 1.000 W, isoladamente, não comprova conformidade.**
+
+Se a unidade não atender aos requisitos da categoria, será necessário avaliar seu enquadramento em outra classe de veículo e as exigências correspondentes.
+
+## 4. Checklist de verificação
+
+- [ ] Confirmar a potência nominal na documentação do fabricante.
+- [ ] Verificar se o motor funciona exclusivamente com pedal assistido.
+- [ ] Confirmar a existência ou ausência de acelerador.
+- [ ] Conferir o limite de velocidade da propulsão auxiliar.
+- [ ] Verificar os equipamentos obrigatórios.
+- [ ] Consultar as regras locais de circulação.
+- [ ] Confirmar a classificação e a documentação da unidade específica.
+
+## 5. Referências
+
+- Resolução CONTRAN nº 996/2023:
+  https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/Resolucao9962023.pdf
+
+- Review do Dantas Tech Reviews:
+  https://dantastech1977.com.br/?p=338
+
+## 6. Limitações
+
+Este documento não constitui certificação de conformidade, laudo de engenharia ou parecer jurídico. As informações comerciais podem variar conforme a versão e o vendedor. A classificação deve ser verificada com base nas características originais e na documentação do veículo.
